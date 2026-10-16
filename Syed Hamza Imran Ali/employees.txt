@@ -1,0 +1,6 @@
+0   name  department    salary    active
+1  Alice  Engineering   85000     True
+2    Bob      Finance   72000     True
+3  Carol  Engineering   91000     False
+4  David           HR   65000     True
+5    Eve      Finance   78000     True
